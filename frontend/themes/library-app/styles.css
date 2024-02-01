@@ -1,0 +1,27 @@
+html {
+  --lumo-primary-text-color: rgb(18, 191, 41);
+  --lumo-primary-color-50pct: rgba(18, 191, 41, 0.5);
+  --lumo-primary-color-10pct: rgba(18, 191, 41, 0.1);
+  --lumo-primary-color: hsl(128, 83%, 41%);
+  --lumo-success-text-color: rgb(26, 214, 224);
+  --lumo-success-color-50pct: rgba(26, 214, 224, 0.5);
+  --lumo-success-color-10pct: rgba(26, 214, 224, 0.1);
+  --lumo-success-color: hsl(183, 79%, 49%);
+}
+
+[theme~="dark"] {
+  --lumo-primary-text-color: rgb(18, 191, 41);
+  --lumo-primary-color-50pct: rgba(18, 191, 41, 0.5);
+  --lumo-primary-color-10pct: rgba(18, 191, 41, 0.1);
+  --lumo-primary-color: hsl(128, 83%, 41%);
+  --lumo-success-text-color: rgb(26, 214, 224);
+  --lumo-success-color-50pct: rgba(26, 214, 224, 0.5);
+  --lumo-success-color-10pct: rgba(26, 214, 224, 0.1);
+  --lumo-success-color: hsl(183, 79%, 49%);
+}
+
+
+.headerLayout
+{
+background-color: var(--lumo-primary-color);
+}

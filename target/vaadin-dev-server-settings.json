@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/Users/samue/Downloads/library/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/samue/Downloads/library/./frontend/generated/jar-resources",
+  "staticOutput": "C:/Users/samue/Downloads/library/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\Users\\samue\\Downloads\\library\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\Users\\samue\\Downloads\\library\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/Users/samue/Downloads/library/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/Users/samue/Downloads/library/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/Users/samue/Downloads/library/./frontend/generated/jar-resources",
+  "themeName": "library-app",
+  "clientServiceWorkerSource": "C:\\Users\\samue\\Downloads\\library\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
